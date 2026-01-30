@@ -1,0 +1,10 @@
+{
+  "fantasyHeroes": ["Aric", "Bryn", "Elandra", "Garrick", "Kaelin", "Liora", "Theron"],
+  "elvenNames": ["Aelar", "Faelar", "Luthien", "Myla", "Sylvar", "Vaelis"],
+  "dwarvenNames": ["Baeln", "Dain", "Fargrim", "Thorin", "Varric", "Zorin"],
+  "dragonNames": ["Emberwing", "Firescale", "Nightsorrow", "Pyroclast", "Stormtail"],
+  "demonLords": ["Azazel", "Belial", "Lilith", "Mephisto", "Zagan"],
+  "ancientWizards": ["Alaric", "Gandor", "Meraxis", "Orin", "Zephros"],
+  "tavernNames": ["The Drunken Dragon", "The Rusty Axe", "The Silver Stag", "The Whispering Oak"],
+  "guildNames": ["Shadow Blades", "Crimson Dawn", "Iron Fangs", "Order of the Phoenix"]
+}
